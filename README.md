@@ -1,6 +1,8 @@
-# Hello! 👋
+<h1 align='center'>
+  Hello!👋 It's Jessica Ding
+ </h1>
 
-Welcome to my GitHub! I'm Jessica Ding, a first year CS student at the University of Waterloo. Check out my personal website [here](https://jessicading.me/)!
+Welcome to my GitHub! I'm a first year Computer Science student at the University of Waterloo. As an aspiring web developer, this is home to all the projects I've created over the past year. Feel free to look through them; I'm open to any feedback! Check out my personal website [here](https://jessicading.me/) to learn more about me :)
 
 ## Skills 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -9,7 +11,7 @@ Welcome to my GitHub! I'm Jessica Ding, a first year CS student at the Universit
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 
 ## Contact Me
-Email me at [jl3ding@uwaterloo.ca](jl3ding@uwaterloo.ca)
+My email: [jl3ding@uwaterloo.ca](jl3ding@uwaterloo.ca)
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/jessicading3/)
 
