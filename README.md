@@ -2,7 +2,7 @@
   Hello!👋 It's Jessica Ding
  </h1>
 
-Welcome to my GitHub! I'm a second year Computer Science student at the University of Waterloo. As an aspiring full-stack developer, this is home to all the projects I've created over the past year. Feel free to look through them; I'm open to any feedback! Check out my personal website [here](https://jessicading.me/) to learn more about me :)
+Welcome to my GitHub! I'm a second year Computer Science student at the University of Waterloo. As an aspiring full-stack developer, this is home to all the projects I've created over the past year. Feel free to look through them; I'm open to any feedback! Check out my personal website [here](https://jessica2673.github.io/) to learn more about me :)
 
 ## Skills
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)" />
