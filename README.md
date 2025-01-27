@@ -2,7 +2,7 @@
   Hello!👋 It's Jessica
 </h2>
 
-Welcome to my GitHub! I'm a third year Computer Science student at the University of Waterloo. As a software developer, this is home to all the projects I've created over the past couple years. I'm currently super interested in robotics 🚀 and software for social good 🌍! Check out my personal website [here](https://jessica2673.github.io/) to learn more about me :)
+Welcome to my GitHub! I'm a third year Computer Science student at the University of Waterloo. As a software developer, this is home to all the projects I've created over the past couple years. I'm currently super interested in robotics 🚀 and software for social good 🌍!
 
 ## Skills
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)" />
